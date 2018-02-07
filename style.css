@@ -55,7 +55,7 @@ p {
 #showcase .bg-image {
   position: absolute;
   background: #333
-    url("https://static.pexels.com/photos/210658/pexels-photo-210658.jpeg");
+    url("img/pexels-photo-210658.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@ p {
 
 #section-b li {
   margin-bottom: 1em;
-  background: #eaeaea;
+  background: #93a0a5;
   color: #333;
 }
 
@@ -135,7 +135,7 @@ p {
 }
 
 #main-footer a {
-  color: #2690d4;
+  color: #2a2f33;
   text-decoration: none;
 }
 
@@ -150,6 +150,8 @@ p {
   #section-a .content-text {
     columns: 2;
     column-gap: 2em;
+  /*  text-indent: 5mm;*/
+   text-align:left;
   }
 
   #section-a .content-text p {
